@@ -1,0 +1,27 @@
+autostart/
+btop/
+Code - OSS
+dconf/
+deepin/
+depot_tools/
+go/
+gtk*
+ibus/
+klassy/
+Kvantum/
+lib*/
+mimeapps.list
+mozilla/
+nwg-look/
+obsidian/
+oku*
+pavu*
+pulse/
+Qt*
+Thunar
+tlpui
+Troll*
+user*
+xdg*/
+yay/
+tmux/plugins/
